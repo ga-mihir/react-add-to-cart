@@ -1,0 +1,34 @@
+{
+  "message": "Success",
+  "status": "200",
+  "data": [
+    {
+      "clinicId": "1001",
+      "name": "Mera Chemist",
+      "img": "../../assets/images/The-Health-Clinic-of-the-Philippines.jpg",
+      "price": "12",
+      "description": "A clinic (or outpatient clinic or ambulatory care clinic) is a healthcare facility that is primarily focused on the care of outpatients. ... Most commonly, the English word clinic refers to a general medical practice, run by one or more general practitioners, but it can also mean a specialist clinic."
+    },
+    {
+      "clinicId": "1002",
+      "name": "Helping Hands",
+      "img": "../../assets/images/fna-clinic-room.jpg",
+      "price": "24",
+      "description": "A clinic (or outpatient clinic or ambulatory care clinic) is a healthcare facility that is primarily focused on the care of outpatients. ... Most commonly, the English word clinic refers to a general medical practice, run by one or more general practitioners, but it can also mean a specialist clinic."
+    },
+    {
+      "clinicId": "1003",
+      "name": "Hospice",
+      "img": "../../assets/images/clinic.jpg",
+      "price": "15",
+      "description": "A clinic (or outpatient clinic or ambulatory care clinic) is a healthcare facility that is primarily focused on the care of outpatients. ... Most commonly, the English word clinic refers to a general medical practice, run by one or more general practitioners, but it can also mean a specialist clinic."
+    },
+    {
+      "clinicId": "1004",
+      "name": "Stanford Hospitals and Clinics",
+      "img": "../../assets/images/Budapest_1331592435_3.png",
+      "price": "36",
+      "description": "A clinic (or outpatient clinic or ambulatory care clinic) is a healthcare facility that is primarily focused on the care of outpatients. ... Most commonly, the English word clinic refers to a general medical practice, run by one or more general practitioners, but it can also mean a specialist clinic."
+    }
+  ]
+}

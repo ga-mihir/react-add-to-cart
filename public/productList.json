@@ -1,0 +1,230 @@
+{
+  "message": "Success",
+  "status": "200",
+  "data": [
+    {
+      "productId": "2001",
+      "name": "A20-KIDNEY-AND-BLADDER-DROP",
+      "description": "bottle of 60 capsules",
+      "price": "94",
+      "clinicId": "1001"
+    },
+    {
+      "productId": "2002",
+      "name": "A22 LEUCORRHOEA DROP",
+      "description": "bottle of 60 capsules",
+      "price": "105",
+      "clinicId": "1001"
+    },
+    {
+      "productId": "2003",
+      "name": "A27 PSORIASIS DROP",
+      "description": "bottle of 60 capsules",
+      "price": "120",
+      "clinicId": "1001"
+    },
+    {
+      "productId": "2004",
+      "name": "A30 NAUSEA & VOMITING DRO",
+      "description": "bottle of 60 capsules",
+      "price": "120",
+      "clinicId": "1001"
+    },
+    {
+      "productId": "2005",
+      "name": "A31 WARTS DROP",
+      "description": "bottle of 60 capsules",
+      "price": "120",
+      "clinicId": "1001"
+    },
+    {
+      "productId": "5014",
+      "name": "A36 DYSMENORRHOEA DROP",
+      "description": "bottle of 60 capsules",
+      "price": "120",
+      "clinicId": "1001"
+    },
+    {
+      "productId": "5007",
+      "name": "A40 L.B.P. (LOW BLOOD PRESSURE) DROP",
+      "description": "bottle of 60 capsules",
+      "price": "94",
+      "clinicId": "1001"
+    },
+    {
+      "productId": "2006",
+      "name": "A89 CHOLESTEROL DROP",
+      "description": "bottle of 60 capsules",
+      "price": "105",
+      "clinicId": "1001"
+    },
+    {
+      "productId": "2007",
+      "name": "ALFALFA SUPER ABCD TONIC",
+      "description": "bottle of 60 capsules",
+      "price": "120",
+      "clinicId": "1001"
+    },
+    {
+      "productId": "2008",
+      "name": "ALLEN A50 H.B.P (HIGH BLOOD PRESSURE) DROP",
+      "description": "bottle of 60 capsules",
+      "price": "785",
+      "clinicId": "1001"
+    },
+    {
+      "productId": "2009",
+      "name": "AND TM-2657P FULLY AUTOMATIC BP MONITOR",
+      "description": "bottle of 60 capsules",
+      "price": "145",
+      "clinicId": "1002"
+    },
+    {
+      "productId": "2010",
+      "name": "ANGIO DROP (LOW BP)",
+      "description": "bottle of 60 capsules",
+      "price": "250",
+      "clinicId": "1002"
+    },
+    {
+      "productId": "2011",
+      "name": "ANGIO CARD GOLD PLUS DROP",
+      "description": "bottle of 60 capsules",
+      "price": "452",
+      "clinicId": "1002"
+    },
+    {
+      "productId": "2012",
+      "name": "ARJUNIN CAPSULE",
+      "description": "bottle of 60 capsules",
+      "price": "99",
+      "clinicId": "1002"
+    },
+    {
+      "productId": "2013",
+      "name": "ANDRO-Q TABLET",
+      "description": "bottle of 60 capsules",
+      "price": "84",
+      "clinicId": "1003"
+    },
+    {
+      "productId": "2014",
+      "name": "AND UM-211 NON MERCURY BP MONITOR",
+      "description": "bottle of 60 capsules",
+      "price": "194",
+      "clinicId": "1003"
+    },
+    {
+      "productId": "2015",
+      "name": "A05 COLD – SINUS DROP",
+      "description": "bottle of 60 capsules",
+      "price": "452",
+      "clinicId": "1003"
+    },
+    {
+      "productId": "2016",
+      "name": "A49 DRY COUGH DROP",
+      "description": "bottle of 60 capsules",
+      "price": "99",
+      "clinicId": "1003"
+    },
+    {
+      "productId": "3003",
+      "name": "A61 WHOOPING COUGH DROP",
+      "description": "bottle of 60 capsules",
+      "price": "84",
+      "clinicId": "1003"
+    },
+    {
+      "productId": "3004",
+      "name": "A62 WET COUGH DROP",
+      "description": "bottle of 60 capsules",
+      "price": "194",
+      "clinicId": "1003"
+    },
+    {
+      "productId": "4001",
+      "name": "A16 INFLUENZA DROP",
+      "description": "bottle of 60 capsules",
+      "price": "452",
+      "clinicId": "1003"
+    },
+    {
+      "productId": "4002",
+      "name": "A18 JAUNDICE DROP",
+      "description": "bottle of 60 capsules",
+      "price": "99",
+      "clinicId": "1003"
+    },
+    {
+      "productId": "4003",
+      "name": "A33 FEVER DROP",
+      "description": "bottle of 60 capsules",
+      "price": "84",
+      "clinicId": "1003"
+    },
+    {
+      "productId": "4004",
+      "name": "A57 FILARIA DROP",
+      "description": "bottle of 60 capsules",
+      "price": "194",
+      "clinicId": "1003"
+    },
+    {
+      "productId": "5001",
+      "name": "A16 INFLUENZA DROP",
+      "description": "bottle of 60 capsules",
+      "price": "452",
+      "clinicId": "1004"
+    },
+    {
+      "productId": "5002",
+      "name": "A18 JAUNDICE DROP",
+      "description": "bottle of 60 capsules",
+      "price": "99",
+      "clinicId": "1004"
+    },
+    {
+      "productId": "5003",
+      "name": "A100 FEVER DROP",
+      "description": "bottle of 60 capsules",
+      "price": "84",
+      "clinicId": "1004"
+    },
+    {
+      "productId": "5004",
+      "name": "A57 FILARIA DROP",
+      "description": "bottle of 60 capsules",
+      "price": "194",
+      "clinicId": "1004"
+    },
+    {
+      "productId": "6001",
+      "name": "8X SHAMPOO",
+      "description": "bottle of 60 capsules",
+      "price": "452",
+      "clinicId": "1004"
+    },
+    {
+      "productId": "6002",
+      "name": "A14 HAIR SCALP RELIEF DRO",
+      "description": "bottle of 60 capsules",
+      "price": "99",
+      "clinicId": "1004"
+    },
+    {
+      "productId": "6003",
+      "name": "A53 ALOPECIA DROP",
+      "description": "bottle of 60 capsules",
+      "price": "84",
+      "clinicId": "1004"
+    },
+    {
+      "productId": "6004",
+      "name": "A82 DROP",
+      "description": "bottle of 60 capsules",
+      "price": "194",
+      "clinicId": "1004"
+    }
+  ]
+}
